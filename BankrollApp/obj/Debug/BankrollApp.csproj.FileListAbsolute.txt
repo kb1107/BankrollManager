@@ -1,0 +1,11 @@
+C:\Users\kb\Documents\BankrollApp\bin\Debug\BankrollApp.exe.config
+C:\Users\kb\Documents\BankrollApp\bin\Debug\BankrollApp.exe
+C:\Users\kb\Documents\BankrollApp\bin\Debug\BankrollApp.pdb
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.csprojAssemblyReference.cache
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.Properties.Resources.resources
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.csproj.GenerateResource.cache
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.csproj.CoreCompileInputs.cache
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.exe
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.pdb
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.BankrollApp.resources
+C:\Users\kb\Documents\BankrollApp\obj\Debug\BankrollApp.Form2ErrorMessage.resources
